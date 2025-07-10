@@ -1,0 +1,1 @@
+# BlazorWA_HashingGuard
