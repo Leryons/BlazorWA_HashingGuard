@@ -1,0 +1,47 @@
+@page "/register"
+@using Hashing_Guard.Model
+@using Hashing_Guard.Components
+@inject IJSRuntime JSRuntime
+
+<UserForm Mode="Register"
+          User="user"
+          OnSubmit="Register"
+          OnPasswordHashed="OnPasswordHashed"
+          @ref="userFormRef" />
+
+@code 
+{
+    User user = new();
+    private UserForm? userFormRef;
+
+    void OnPasswordHashed(string hashed)
+    {
+        user.PasswordHash = hashed;
+    }
+
+    async Task Register()
+    {
+        if (string.IsNullOrWhiteSpace(user.Name) ||
+            string.IsNullOrWhiteSpace(user.Email) ||
+            string.IsNullOrWhiteSpace(user.PasswordHash))
+        {
+            userFormRef?.DebugSteps.Add("Please fill in all fields.");
+            return;
+        }
+
+        if (string.IsNullOrWhiteSpace(user.Id))
+        {
+            user.Id = Guid.NewGuid().ToString();
+        }
+
+        await JSRuntime.InvokeVoidAsync("firebaseInterop.RegisterUser",
+            new object[] { user.Id, user.Name, user.Email, user.PasswordHash, user.Role });
+
+        userFormRef?.DebugSteps.Add($"User '{user.Name}' with ID '{user.Id}'.");
+        userFormRef?.DebugSteps.Add($"Email: {user.Email}");
+        userFormRef?.DebugSteps.Add($"Role: {user.Role}");
+        userFormRef?.DebugSteps.Add($"Password Hash: {user.PasswordHash.Substring(0, 12)}...");
+        userFormRef?.DebugSteps.Add("registered successfully!");
+        user = new();
+    }
+}

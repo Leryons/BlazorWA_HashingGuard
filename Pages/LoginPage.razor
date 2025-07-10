@@ -1,0 +1,50 @@
+﻿@page "/login"
+@using Hashing_Guard.Model
+@using Hashing_Guard.Components
+@inject IJSRuntime JSRuntime
+
+<UserForm Mode="Login"
+          User="user"
+          OnSubmit="Login"
+          OnPasswordHashed="OnPasswordHashed"
+          @ref="userFormRef" />
+
+@code 
+{
+    User user = new();
+    private UserForm? userFormRef;
+
+    void OnPasswordHashed(string hashed)
+    {
+        user.PasswordHash = hashed;
+    }
+
+    async Task Login()
+    {
+        if (string.IsNullOrWhiteSpace(user.Email) || string.IsNullOrWhiteSpace(user.PasswordHash))
+        {
+            userFormRef?.DebugSteps.Add("Values are empty.");
+            return;
+        }
+
+        userFormRef?.DebugSteps.Add("Attempting to log in. Connecting to Firebase...");
+        var loggedInUser = await JSRuntime.InvokeAsync<User>(
+            "firebaseInterop.LoginUser",
+            new object[] { user.Email, user.PasswordHash });
+
+        if (loggedInUser != null)
+        {
+            userFormRef?.DebugSteps.Add($"Welcome back, {loggedInUser.Name}!");
+            userFormRef?.DebugSteps.Add($"User ID: {loggedInUser.Id}");
+            userFormRef?.DebugSteps.Add($"Email: {loggedInUser.Email}");
+            userFormRef?.DebugSteps.Add($"Role: {loggedInUser.Role}");
+            userFormRef?.DebugSteps.Add($"Password Hash: {loggedInUser.PasswordHash}");
+            userFormRef?.DebugSteps.Add("Login successful.");
+
+        }
+        else
+        {
+            userFormRef?.DebugSteps.Add("Email or password is incorrect.");
+        }
+    }
+}

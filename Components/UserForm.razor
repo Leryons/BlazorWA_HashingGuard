@@ -1,0 +1,141 @@
+@using Hashing_Guard.Model
+@using System.Security.Cryptography
+@using System.Text
+
+<body>
+
+    <div class="container">
+
+        <div class="debug-panel">
+
+            @if (DebugSteps.Any())
+            {
+                <div class="debug-output">
+
+                    <div class="debug-header">
+                        <h3>Debug Panel</h3>
+                        <i @onclick="ClearDebugSteps" class='bx bx-paint'></i> 
+                    </div>
+
+                    <ul>
+                        @foreach (var step in DebugSteps)
+                        {
+                            <li>@step</li>
+                        }
+                    </ul>
+                </div>
+            }
+        </div>
+
+        <div class="form-box">
+
+            <form>
+                <h1 style="cursor: default;">@Mode</h1>
+
+                @if (Mode == "Register")
+                {
+                    <div class="input-box">
+                        <input @bind="User.Name" placeholder="Name" />
+                        <i class='bx bx-user-square'></i> 
+                    </div>
+
+                    <div class="input-box">
+                        <input @bind="User.Email" placeholder="E-mail" type="email" required/>
+                        <i class='bx bx-envelope'></i> 
+                    </div>
+
+                    <div class="input-box">
+                        <input @bind="Password" placeholder="Password" type="password" required />
+                        <i class='bx bx-lock'></i> 
+                    </div>
+
+                    <div class="input-box select-box">
+                        <select class="role-select" @bind="User.Role">
+                            <option value="" disabled selected>Select Role</option>
+                            <option value="User">User</option>
+                            <option value="Admin">Admin</option>
+                            <option value="Editor">Editor</option>
+                        </select>
+                    </div>
+    
+                    <div class="sub-link">
+                        <a href="/login">Already have an account?</a>
+                    </div>
+                }
+                else
+                {
+                    <div class="input-box">
+                        <input @bind="User.Email" placeholder="E-mail" type="email" required/>
+                        <i class='bx bx-envelope'></i> 
+                    </div>
+
+                    <div class="input-box">
+                        <input @bind="Password" placeholder="Password" type="password" required />
+                        <i class='bx bx-lock'></i> 
+                    </div>
+
+                    <div class="sub-link">
+                        <a href="/register">Don't have an account?</a>
+                    </div>
+                }
+
+                <button class="btn" type="button" @onclick="HandleSubmit">@ButtonLabel</button>
+            </form>
+
+        </div>
+
+    </div>
+
+</body>
+
+@code 
+{
+    [Parameter] public User User { get; set; } = new();
+    [Parameter] public EventCallback OnSubmit { get; set; }
+    [Parameter] public EventCallback<string> OnPasswordHashed { get; set; }
+    [Parameter] public string Mode { get; set; } = "Register";
+
+    public string Password { get; set; } = "";
+    string ButtonLabel => Mode == "Login" ? "Login" : "Register";
+
+    public List<string> DebugSteps { get; set; } = new();
+
+    async Task HandleSubmit()
+    {
+        if (!string.IsNullOrWhiteSpace(Password))
+        {
+            DebugSteps.Add("Hashing password...");
+
+            using var sha256 = SHA256.Create();
+            var bytes = Encoding.UTF8.GetBytes(Password);
+            var hash = sha256.ComputeHash(bytes);
+            string hashed = Convert.ToBase64String(hash);
+
+            DebugSteps.Add($"Password hashed: {hashed.Substring(0, 12)}...");
+
+            User.PasswordHash = hashed;
+
+            await OnPasswordHashed.InvokeAsync(hashed);
+        }
+        else
+        {
+            DebugSteps.Add("Values are empty, skipping hashing.");
+            return;
+        }
+
+        await OnSubmit.InvokeAsync(null);
+    }
+
+    protected override void OnInitialized()
+    {
+        DebugSteps.Add($"Initialization {Mode}");
+        base.OnInitialized();
+    }
+
+    async Task ClearDebugSteps()
+    {
+        DebugSteps.Clear();
+        DebugSteps.Add("Debug steps cleared.");
+        await Task.CompletedTask;
+    }
+}
