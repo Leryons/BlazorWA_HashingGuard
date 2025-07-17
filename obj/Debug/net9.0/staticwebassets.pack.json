@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Hashing_Guard.styles.css"
     },
     {
+      "Id": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\.nojekyll",
+      "PackagePath": "staticwebassets\\.nojekyll"
+    },
+    {
       "Id": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

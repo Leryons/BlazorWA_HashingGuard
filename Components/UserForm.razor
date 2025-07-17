@@ -2,11 +2,26 @@
 @using System.Security.Cryptography
 @using System.Text
 
+@inject IJSRuntime JSRuntime
+
 <body>
+
+    @if (IsMobile)
+    {
+        <div class="panel-toggle">
+
+            <h2>Toggle Menu</h2>
+
+            <button class="swap-btn" @onclick="ToggleDebugMode">
+                <i class='bx bx-caret-left-square'></i> 
+            </button>
+        </div>
+    }
 
     <div class="container">
 
-        <div class="debug-panel">
+
+        <div class="debug-panel" style="display:@(IsDebugMode ? "block" : "none");">
 
             @if (DebugSteps.Any())
             {
@@ -27,7 +42,7 @@
             }
         </div>
 
-        <div class="form-box">
+        <div class="form-box" style="display:@(IsDebugMode ? "none" : "flex");">
 
             <form>
                 <h1 style="cursor: default;">@Mode</h1>
@@ -97,8 +112,10 @@
 
     public string Password { get; set; } = "";
     string ButtonLabel => Mode == "Login" ? "Login" : "Register";
-
     public List<string> DebugSteps { get; set; } = new();
+    bool IsDebugMode = true;
+    bool IsMobile = false;
+    bool IsMobileEvaluated = false;
 
     async Task HandleSubmit()
     {
@@ -137,5 +154,23 @@
         DebugSteps.Clear();
         DebugSteps.Add("Debug steps cleared.");
         await Task.CompletedTask;
+    }
+
+    void ToggleDebugMode()
+    {
+        IsDebugMode = !IsDebugMode;
+        DebugSteps.Add($"Debug mode toggled: {(IsDebugMode ? "Enabled" : "Disabled")}");
+        StateHasChanged();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            var width = await JSRuntime.InvokeAsync<int>("getWindowWidth");
+            IsMobile = width < 900;
+            IsMobileEvaluated = true;
+            StateHasChanged();
+        }
     }
 }

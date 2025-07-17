@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fMT7NK5HbCSKcIIpbePukhg+U6TmSaMnF9qn2PQjBTU=",
+  "Hash": "7VGFaGBfTsCBu2OymE8WjKG39eYubIeddv+vE2XfrBQ=",
   "Source": "Hashing_Guard",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "p3spkryddn",
-      "Integrity": "e2W77xGNG9rwulveTgg+XYQk/Jp2Kf9MgxqlIwPFbzE=",
+      "Fingerprint": "873wg86zkz",
+      "Integrity": "NCjz9KgXZEw37A303n0f9+TT6bCLP6dcY0nqdeHB+eQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "f4gtgt1k5o",
-      "Integrity": "36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE=",
+      "Fingerprint": "l0brzlr73e",
+      "Integrity": "hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Hashing_Guard.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "bwduq3xfvk",
-      "Integrity": "27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw=",
+      "Fingerprint": "7pmra28nco",
+      "Integrity": "q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\webcil\\Hashing_Guard.wasm"
@@ -5414,7 +5414,7 @@
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\77bgahlqee-p3spkryddn.gz",
+      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\77bgahlqee-873wg86zkz.gz",
       "SourceId": "Hashing_Guard",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\",
@@ -5428,8 +5428,8 @@
       "RelatedAsset": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tzr0fh7q1h",
-      "Integrity": "udBWD0q5LG88RWV0nHBMBFNoWc3iht3wG+8AZnccqjg=",
+      "Fingerprint": "o9bs42laxj",
+      "Integrity": "DMSXye9OyHEN/IkPC2ri10QZ3NDdUA6jY5dpRWMf6dk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5582,12 +5582,12 @@
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.HttpListener.wasm"
     },
     {
-      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-uakm62o227.gz",
+      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-6lm947px8s.gz",
       "SourceId": "Hashing_Guard",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "Hashing_Guard#[.{fingerprint=uakm62o227}]!.bundle.scp.css.gz",
+      "RelativePath": "Hashing_Guard#[.{fingerprint=6lm947px8s}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -5596,8 +5596,8 @@
       "RelatedAsset": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Hashing_Guard.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hq52x5trdn",
-      "Integrity": "d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=",
+      "Fingerprint": "tvzyejv0ek",
+      "Integrity": "KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Hashing_Guard.bundle.scp.css"
@@ -5939,12 +5939,12 @@
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.Emit.wasm"
     },
     {
-      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-uakm62o227.gz",
+      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-6lm947px8s.gz",
       "SourceId": "Hashing_Guard",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "Hashing_Guard#[.{fingerprint=uakm62o227}]?.styles.css.gz",
+      "RelativePath": "Hashing_Guard#[.{fingerprint=6lm947px8s}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -5953,8 +5953,8 @@
       "RelatedAsset": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Hashing_Guard.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hq52x5trdn",
-      "Integrity": "d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=",
+      "Fingerprint": "tvzyejv0ek",
+      "Integrity": "KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Hashing_Guard.styles.css"
@@ -6611,12 +6611,12 @@
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm"
     },
     {
-      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-f4gtgt1k5o.gz",
+      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-l0brzlr73e.gz",
       "SourceId": "Hashing_Guard",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Hashing_Guard#[.{fingerprint=f4gtgt1k5o}]!.pdb.gz",
+      "RelativePath": "_framework/Hashing_Guard#[.{fingerprint=l0brzlr73e}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6625,8 +6625,8 @@
       "RelatedAsset": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Hashing_Guard.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "p5fhu7tthr",
-      "Integrity": "Ay9JBT7HjIyf8xKmjfaXE+ymhWu7FpSOfBYJWx9vAyg=",
+      "Fingerprint": "7ps46dif1w",
+      "Integrity": "tZvikWA1Uz615+DoHtJsTdY5ISRNHOVhX6Pgu6+6ZBg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Hashing_Guard.pdb"
@@ -7430,12 +7430,12 @@
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm"
     },
     {
-      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-scsrxs3yhb.gz",
+      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-brk8w9ybvn.gz",
       "SourceId": "Hashing_Guard",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=scsrxs3yhb}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=brk8w9ybvn}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7444,8 +7444,8 @@
       "RelatedAsset": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "61ewthu5de",
-      "Integrity": "ClDDwXiGj9ZCgdMZEKlSV+CH39s0t0Ldc0IpAIAAPuw=",
+      "Fingerprint": "ou0rauf0gr",
+      "Integrity": "8FDPmCmQL1uphCfnu8OOIKRLuOe0QadouerxNfmrlm8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\index.html"
@@ -8333,12 +8333,12 @@
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm"
     },
     {
-      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-bwduq3xfvk.gz",
+      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-7pmra28nco.gz",
       "SourceId": "Hashing_Guard",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Hashing_Guard#[.{fingerprint=bwduq3xfvk}]!.wasm.gz",
+      "RelativePath": "_framework/Hashing_Guard#[.{fingerprint=7pmra28nco}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8347,8 +8347,8 @@
       "RelatedAsset": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Hashing_Guard.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "p4hx6pvjjk",
-      "Integrity": "B7G/9jCsC3/y0kp32uyAm5QMk4fIWzij02vC2lfmLgo=",
+      "Fingerprint": "zsxhi8d6kn",
+      "Integrity": "Y4fY6ljTSdJQjtj+ofOcVHkbeD13WY1xgarLVhSKc88=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Hashing_Guard.wasm"
@@ -9670,8 +9670,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "uakm62o227",
-      "Integrity": "uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=",
+      "Fingerprint": "6lm947px8s",
+      "Integrity": "ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Hashing_Guard.styles.css"
@@ -9691,11 +9691,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "uakm62o227",
-      "Integrity": "uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=",
+      "Fingerprint": "6lm947px8s",
+      "Integrity": "ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Hashing_Guard.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\.nojekyll",
+      "SourceId": "Hashing_Guard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "#[.{fingerprint}]?.nojekyll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e0z1goekgi",
+      "Integrity": "frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.nojekyll"
     },
     {
       "Identity": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\css\\app.css",
@@ -9838,8 +9859,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "scsrxs3yhb",
-      "Integrity": "tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc=",
+      "Fingerprint": "brk8w9ybvn",
+      "Integrity": "6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10789,11 +10810,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e2W77xGNG9rwulveTgg+XYQk/Jp2Kf9MgxqlIwPFbzE=\""
+          "Value": "\"NCjz9KgXZEw37A303n0f9+TT6bCLP6dcY0nqdeHB+eQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:46:23 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10803,13 +10824,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e2W77xGNG9rwulveTgg+XYQk/Jp2Kf9MgxqlIwPFbzE="
+          "Value": "sha256-NCjz9KgXZEw37A303n0f9+TT6bCLP6dcY0nqdeHB+eQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\77bgahlqee-p3spkryddn.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\77bgahlqee-873wg86zkz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10828,11 +10849,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"udBWD0q5LG88RWV0nHBMBFNoWc3iht3wG+8AZnccqjg=\""
+          "Value": "\"DMSXye9OyHEN/IkPC2ri10QZ3NDdUA6jY5dpRWMf6dk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:29:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10852,19 +10873,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"e2W77xGNG9rwulveTgg+XYQk/Jp2Kf9MgxqlIwPFbzE=\""
+          "Value": "W/\"NCjz9KgXZEw37A303n0f9+TT6bCLP6dcY0nqdeHB+eQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e2W77xGNG9rwulveTgg+XYQk/Jp2Kf9MgxqlIwPFbzE="
+          "Value": "sha256-NCjz9KgXZEw37A303n0f9+TT6bCLP6dcY0nqdeHB+eQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\77bgahlqee-p3spkryddn.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\77bgahlqee-873wg86zkz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10881,11 +10902,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"udBWD0q5LG88RWV0nHBMBFNoWc3iht3wG+8AZnccqjg=\""
+          "Value": "\"DMSXye9OyHEN/IkPC2ri10QZ3NDdUA6jY5dpRWMf6dk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:29:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10903,7 +10924,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-udBWD0q5LG88RWV0nHBMBFNoWc3iht3wG+8AZnccqjg="
+          "Value": "sha256-DMSXye9OyHEN/IkPC2ri10QZ3NDdUA6jY5dpRWMf6dk="
         }
       ]
     },
@@ -12833,7 +12854,7 @@
       ]
     },
     {
-      "Route": "_framework/Hashing_Guard.bwduq3xfvk.wasm",
+      "Route": "_framework/Hashing_Guard.7pmra28nco.wasm",
       "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Hashing_Guard.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12843,7 +12864,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25365"
+          "Value": "27413"
         },
         {
           "Name": "Content-Type",
@@ -12851,11 +12872,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw=\""
+          "Value": "\"q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12865,7 +12886,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bwduq3xfvk"
+          "Value": "7pmra28nco"
         },
         {
           "Name": "label",
@@ -12873,18 +12894,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw="
+          "Value": "sha256-q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc="
         }
       ]
     },
     {
-      "Route": "_framework/Hashing_Guard.bwduq3xfvk.wasm",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-bwduq3xfvk.gz",
+      "Route": "_framework/Hashing_Guard.7pmra28nco.wasm",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-7pmra28nco.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000092276460"
+          "Quality": "0.000085149864"
         }
       ],
       "ResponseHeaders": [
@@ -12894,15 +12915,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10836"
+          "Value": "11743"
         },
         {
           "Name": "ETag",
-          "Value": "\"B7G/9jCsC3/y0kp32uyAm5QMk4fIWzij02vC2lfmLgo=\""
+          "Value": "\"Y4fY6ljTSdJQjtj+ofOcVHkbeD13WY1xgarLVhSKc88=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12922,13 +12943,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw=\""
+          "Value": "W/\"q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bwduq3xfvk"
+          "Value": "7pmra28nco"
         },
         {
           "Name": "label",
@@ -12936,13 +12957,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw="
+          "Value": "sha256-q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc="
         }
       ]
     },
     {
-      "Route": "_framework/Hashing_Guard.bwduq3xfvk.wasm.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-bwduq3xfvk.gz",
+      "Route": "_framework/Hashing_Guard.7pmra28nco.wasm.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-7pmra28nco.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12951,7 +12972,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10836"
+          "Value": "11743"
         },
         {
           "Name": "Content-Type",
@@ -12959,11 +12980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B7G/9jCsC3/y0kp32uyAm5QMk4fIWzij02vC2lfmLgo=\""
+          "Value": "\"Y4fY6ljTSdJQjtj+ofOcVHkbeD13WY1xgarLVhSKc88=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12981,7 +13002,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bwduq3xfvk"
+          "Value": "7pmra28nco"
         },
         {
           "Name": "label",
@@ -12989,12 +13010,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B7G/9jCsC3/y0kp32uyAm5QMk4fIWzij02vC2lfmLgo="
+          "Value": "sha256-Y4fY6ljTSdJQjtj+ofOcVHkbeD13WY1xgarLVhSKc88="
         }
       ]
     },
     {
-      "Route": "_framework/Hashing_Guard.f4gtgt1k5o.pdb",
+      "Route": "_framework/Hashing_Guard.l0brzlr73e.pdb",
       "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Hashing_Guard.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13004,7 +13025,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27044"
+          "Value": "28780"
         },
         {
           "Name": "Content-Type",
@@ -13012,11 +13033,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE=\""
+          "Value": "\"hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13026,7 +13047,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f4gtgt1k5o"
+          "Value": "l0brzlr73e"
         },
         {
           "Name": "label",
@@ -13034,18 +13055,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE="
+          "Value": "sha256-hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U="
         }
       ]
     },
     {
-      "Route": "_framework/Hashing_Guard.f4gtgt1k5o.pdb",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-f4gtgt1k5o.gz",
+      "Route": "_framework/Hashing_Guard.l0brzlr73e.pdb",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-l0brzlr73e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051474752"
+          "Quality": "0.000047776026"
         }
       ],
       "ResponseHeaders": [
@@ -13055,15 +13076,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19426"
+          "Value": "20930"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ay9JBT7HjIyf8xKmjfaXE+ymhWu7FpSOfBYJWx9vAyg=\""
+          "Value": "\"tZvikWA1Uz615+DoHtJsTdY5ISRNHOVhX6Pgu6+6ZBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13083,13 +13104,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE=\""
+          "Value": "W/\"hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f4gtgt1k5o"
+          "Value": "l0brzlr73e"
         },
         {
           "Name": "label",
@@ -13097,13 +13118,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE="
+          "Value": "sha256-hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U="
         }
       ]
     },
     {
-      "Route": "_framework/Hashing_Guard.f4gtgt1k5o.pdb.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-f4gtgt1k5o.gz",
+      "Route": "_framework/Hashing_Guard.l0brzlr73e.pdb.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-l0brzlr73e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13112,7 +13133,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19426"
+          "Value": "20930"
         },
         {
           "Name": "Content-Type",
@@ -13120,11 +13141,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ay9JBT7HjIyf8xKmjfaXE+ymhWu7FpSOfBYJWx9vAyg=\""
+          "Value": "\"tZvikWA1Uz615+DoHtJsTdY5ISRNHOVhX6Pgu6+6ZBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13142,7 +13163,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f4gtgt1k5o"
+          "Value": "l0brzlr73e"
         },
         {
           "Name": "label",
@@ -13150,7 +13171,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ay9JBT7HjIyf8xKmjfaXE+ymhWu7FpSOfBYJWx9vAyg="
+          "Value": "sha256-tZvikWA1Uz615+DoHtJsTdY5ISRNHOVhX6Pgu6+6ZBg="
         }
       ]
     },
@@ -13165,7 +13186,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27044"
+          "Value": "28780"
         },
         {
           "Name": "Content-Type",
@@ -13173,11 +13194,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE=\""
+          "Value": "\"hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13187,18 +13208,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE="
+          "Value": "sha256-hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U="
         }
       ]
     },
     {
       "Route": "_framework/Hashing_Guard.pdb",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-f4gtgt1k5o.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-l0brzlr73e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051474752"
+          "Quality": "0.000047776026"
         }
       ],
       "ResponseHeaders": [
@@ -13208,15 +13229,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19426"
+          "Value": "20930"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ay9JBT7HjIyf8xKmjfaXE+ymhWu7FpSOfBYJWx9vAyg=\""
+          "Value": "\"tZvikWA1Uz615+DoHtJsTdY5ISRNHOVhX6Pgu6+6ZBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13236,19 +13257,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE=\""
+          "Value": "W/\"hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-36okYpfRVjNcKZqtUXqFeKwbl8N4qsSv7c68wpVufsE="
+          "Value": "sha256-hVe5Hqls3+00Cr0BawaLbogxp/nCnspXVSDBle3ma2U="
         }
       ]
     },
     {
       "Route": "_framework/Hashing_Guard.pdb.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-f4gtgt1k5o.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\f83375feim-l0brzlr73e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13257,7 +13278,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19426"
+          "Value": "20930"
         },
         {
           "Name": "Content-Type",
@@ -13265,11 +13286,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ay9JBT7HjIyf8xKmjfaXE+ymhWu7FpSOfBYJWx9vAyg=\""
+          "Value": "\"tZvikWA1Uz615+DoHtJsTdY5ISRNHOVhX6Pgu6+6ZBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13287,7 +13308,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ay9JBT7HjIyf8xKmjfaXE+ymhWu7FpSOfBYJWx9vAyg="
+          "Value": "sha256-tZvikWA1Uz615+DoHtJsTdY5ISRNHOVhX6Pgu6+6ZBg="
         }
       ]
     },
@@ -13302,7 +13323,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25365"
+          "Value": "27413"
         },
         {
           "Name": "Content-Type",
@@ -13310,11 +13331,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw=\""
+          "Value": "\"q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13324,18 +13345,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw="
+          "Value": "sha256-q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc="
         }
       ]
     },
     {
       "Route": "_framework/Hashing_Guard.wasm",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-bwduq3xfvk.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-7pmra28nco.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000092276460"
+          "Quality": "0.000085149864"
         }
       ],
       "ResponseHeaders": [
@@ -13345,15 +13366,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10836"
+          "Value": "11743"
         },
         {
           "Name": "ETag",
-          "Value": "\"B7G/9jCsC3/y0kp32uyAm5QMk4fIWzij02vC2lfmLgo=\""
+          "Value": "\"Y4fY6ljTSdJQjtj+ofOcVHkbeD13WY1xgarLVhSKc88=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13373,19 +13394,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw=\""
+          "Value": "W/\"q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-27fFxQ8ARq5XHjy0NW41ENvSGuO06FuEPJ3M243V2cw="
+          "Value": "sha256-q311h0KZEzpa1oSFyTBIB3dJ1qJwNubi4vcdKySZxKc="
         }
       ]
     },
     {
       "Route": "_framework/Hashing_Guard.wasm.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-bwduq3xfvk.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ra9nfc3t5j-7pmra28nco.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13394,7 +13415,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10836"
+          "Value": "11743"
         },
         {
           "Name": "Content-Type",
@@ -13402,11 +13423,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B7G/9jCsC3/y0kp32uyAm5QMk4fIWzij02vC2lfmLgo=\""
+          "Value": "\"Y4fY6ljTSdJQjtj+ofOcVHkbeD13WY1xgarLVhSKc88=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:33:34 GMT"
+          "Value": "Thu, 17 Jul 2025 04:34:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13424,7 +13445,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-B7G/9jCsC3/y0kp32uyAm5QMk4fIWzij02vC2lfmLgo="
+          "Value": "sha256-Y4fY6ljTSdJQjtj+ofOcVHkbeD13WY1xgarLVhSKc88="
         }
       ]
     },
@@ -71241,6 +71262,88 @@
       ]
     },
     {
+      "Route": ".e0z1goekgi.nojekyll",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\.nojekyll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 19:04:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e0z1goekgi"
+        },
+        {
+          "Name": "label",
+          "Value": ".nojekyll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY="
+        }
+      ]
+    },
+    {
+      "Route": ".nojekyll",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\.nojekyll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 19:04:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY="
+        }
+      ]
+    },
+    {
       "Route": "css/app.css",
       "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\s5b0c3zvt4-mez5h4wtgt.gz",
       "Selectors": [
@@ -72515,13 +72618,13 @@
       ]
     },
     {
-      "Route": "Hashing_Guard.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-uakm62o227.gz",
+      "Route": "Hashing_Guard.6lm947px8s.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-6lm947px8s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000771604938"
+          "Quality": "0.000713775874"
         }
       ],
       "ResponseHeaders": [
@@ -72531,19 +72634,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1295"
+          "Value": "1400"
         },
         {
           "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -72559,18 +72662,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
+          "Value": "W/\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "6lm947px8s"
+        },
+        {
+          "Name": "label",
+          "Value": "Hashing_Guard.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
         }
       ]
     },
     {
-      "Route": "Hashing_Guard.bundle.scp.css",
+      "Route": "Hashing_Guard.6lm947px8s.bundle.scp.css",
       "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Hashing_Guard.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72580,7 +72691,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5165"
+          "Value": "5801"
         },
         {
           "Name": "Content-Type",
@@ -72588,258 +72699,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
+          "Value": "\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
-        }
-      ]
-    },
-    {
-      "Route": "Hashing_Guard.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-uakm62o227.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk="
-        }
-      ]
-    },
-    {
-      "Route": "Hashing_Guard.styles.css",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-uakm62o227.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000771604938"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1295"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
-        }
-      ]
-    },
-    {
-      "Route": "Hashing_Guard.styles.css",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Hashing_Guard.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5165"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
-        }
-      ]
-    },
-    {
-      "Route": "Hashing_Guard.styles.css.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-uakm62o227.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk="
-        }
-      ]
-    },
-    {
-      "Route": "Hashing_Guard.uakm62o227.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-uakm62o227.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000771604938"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1295"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uakm62o227"
+          "Value": "6lm947px8s"
         },
         {
           "Name": "label",
@@ -72847,13 +72721,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
         }
       ]
     },
     {
-      "Route": "Hashing_Guard.uakm62o227.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Hashing_Guard.bundle.scp.css",
+      "Route": "Hashing_Guard.6lm947px8s.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-6lm947px8s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72862,7 +72736,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5165"
+          "Value": "1400"
         },
         {
           "Name": "Content-Type",
@@ -72870,56 +72744,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uakm62o227"
-        },
-        {
-          "Name": "label",
-          "Value": "Hashing_Guard.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
-        }
-      ]
-    },
-    {
-      "Route": "Hashing_Guard.uakm62o227.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-uakm62o227.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72937,7 +72766,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uakm62o227"
+          "Value": "6lm947px8s"
         },
         {
           "Name": "label",
@@ -72945,18 +72774,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk="
+          "Value": "sha256-KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0="
         }
       ]
     },
     {
-      "Route": "Hashing_Guard.uakm62o227.styles.css",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-uakm62o227.gz",
+      "Route": "Hashing_Guard.6lm947px8s.styles.css",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-6lm947px8s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000771604938"
+          "Quality": "0.000713775874"
         }
       ],
       "ResponseHeaders": [
@@ -72966,15 +72795,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1295"
+          "Value": "1400"
         },
         {
           "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72994,13 +72823,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
+          "Value": "W/\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uakm62o227"
+          "Value": "6lm947px8s"
         },
         {
           "Name": "label",
@@ -73008,12 +72837,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
         }
       ]
     },
     {
-      "Route": "Hashing_Guard.uakm62o227.styles.css",
+      "Route": "Hashing_Guard.6lm947px8s.styles.css",
       "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Hashing_Guard.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -73023,7 +72852,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5165"
+          "Value": "5801"
         },
         {
           "Name": "Content-Type",
@@ -73031,11 +72860,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o=\""
+          "Value": "\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73045,7 +72874,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uakm62o227"
+          "Value": "6lm947px8s"
         },
         {
           "Name": "label",
@@ -73053,13 +72882,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uuFMGXZm2I2Iytb4WPGKK3VL5pbdRy8UEOzx4kyKu0o="
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
         }
       ]
     },
     {
-      "Route": "Hashing_Guard.uakm62o227.styles.css.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-uakm62o227.gz",
+      "Route": "Hashing_Guard.6lm947px8s.styles.css.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-6lm947px8s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73068,7 +72897,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1295"
+          "Value": "1400"
         },
         {
           "Name": "Content-Type",
@@ -73076,11 +72905,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk=\""
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:17:40 GMT"
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73098,7 +72927,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uakm62o227"
+          "Value": "6lm947px8s"
         },
         {
           "Name": "label",
@@ -73106,7 +72935,281 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-d/GsXPBL2MCt8kytg1JEcfDALtnlxvgtHSL2Ph/3pHk="
+          "Value": "sha256-KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0="
+        }
+      ]
+    },
+    {
+      "Route": "Hashing_Guard.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-6lm947px8s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000713775874"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
+        }
+      ]
+    },
+    {
+      "Route": "Hashing_Guard.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Hashing_Guard.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
+        }
+      ]
+    },
+    {
+      "Route": "Hashing_Guard.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\81nyydxo2p-6lm947px8s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0="
+        }
+      ]
+    },
+    {
+      "Route": "Hashing_Guard.styles.css",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-6lm947px8s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000713775874"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
+        }
+      ]
+    },
+    {
+      "Route": "Hashing_Guard.styles.css",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Hashing_Guard.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZlVBLmU1TZmZ/ufcyXrQmIXV8FGRjJShHw0Q1qCsB10="
+        }
+      ]
+    },
+    {
+      "Route": "Hashing_Guard.styles.css.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\ad7t60nypy-6lm947px8s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 04:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KdRK2UAQYEx8ZGkz03jxZLmBnk+TUXLVoxtd/XzL3H0="
         }
       ]
     },
@@ -73193,13 +73296,13 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-scsrxs3yhb.gz",
+      "Route": "index.brk8w9ybvn.html",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-brk8w9ybvn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001051524711"
+          "Quality": "0.001014198783"
         }
       ],
       "ResponseHeaders": [
@@ -73209,19 +73312,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "950"
+          "Value": "985"
         },
         {
           "Name": "ETag",
-          "Value": "\"ClDDwXiGj9ZCgdMZEKlSV+CH39s0t0Ldc0IpAIAAPuw=\""
+          "Value": "\"8FDPmCmQL1uphCfnu8OOIKRLuOe0QadouerxNfmrlm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:43:59 GMT"
+          "Value": "Thu, 10 Jul 2025 19:34:23 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -73237,18 +73340,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc=\""
+          "Value": "W/\"6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "brk8w9ybvn"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc="
+          "Value": "sha256-6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo="
         }
       ]
     },
     {
-      "Route": "index.html",
+      "Route": "index.brk8w9ybvn.html",
       "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -73258,7 +73369,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2425"
+          "Value": "2534"
         },
         {
           "Name": "Content-Type",
@@ -73266,121 +73377,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc=\""
+          "Value": "\"6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:43:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-scsrxs3yhb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "950"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ClDDwXiGj9ZCgdMZEKlSV+CH39s0t0Ldc0IpAIAAPuw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:43:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ClDDwXiGj9ZCgdMZEKlSV+CH39s0t0Ldc0IpAIAAPuw="
-        }
-      ]
-    },
-    {
-      "Route": "index.scsrxs3yhb.html",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-scsrxs3yhb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001051524711"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "950"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ClDDwXiGj9ZCgdMZEKlSV+CH39s0t0Ldc0IpAIAAPuw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:43:59 GMT"
+          "Value": "Thu, 10 Jul 2025 19:34:23 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "scsrxs3yhb"
+          "Value": "brk8w9ybvn"
         },
         {
           "Name": "label",
@@ -73388,13 +73399,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc="
+          "Value": "sha256-6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo="
         }
       ]
     },
     {
-      "Route": "index.scsrxs3yhb.html",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\index.html",
+      "Route": "index.brk8w9ybvn.html.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-brk8w9ybvn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73403,7 +73414,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2425"
+          "Value": "985"
         },
         {
           "Name": "Content-Type",
@@ -73411,56 +73422,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc=\""
+          "Value": "\"8FDPmCmQL1uphCfnu8OOIKRLuOe0QadouerxNfmrlm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:43:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "scsrxs3yhb"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tNalNReuv2e4iv1aBe1AvQMLqFfPHGIaWGENgy7jCyc="
-        }
-      ]
-    },
-    {
-      "Route": "index.scsrxs3yhb.html.gz",
-      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-scsrxs3yhb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "950"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ClDDwXiGj9ZCgdMZEKlSV+CH39s0t0Ldc0IpAIAAPuw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 17:43:59 GMT"
+          "Value": "Thu, 10 Jul 2025 19:34:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73478,7 +73444,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "scsrxs3yhb"
+          "Value": "brk8w9ybvn"
         },
         {
           "Name": "label",
@@ -73486,7 +73452,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ClDDwXiGj9ZCgdMZEKlSV+CH39s0t0Ldc0IpAIAAPuw="
+          "Value": "sha256-8FDPmCmQL1uphCfnu8OOIKRLuOe0QadouerxNfmrlm8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-brk8w9ybvn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001014198783"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "985"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FDPmCmQL1uphCfnu8OOIKRLuOe0QadouerxNfmrlm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 19:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 19:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SCuWMRQqa26Er0LiZMn/ZDGsCymJc6S1ig9xu9Uupo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Leonardo\\Desktop\\Hashing_Guard\\obj\\Debug\\net9.0\\compressed\\lkyoosdlni-brk8w9ybvn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FDPmCmQL1uphCfnu8OOIKRLuOe0QadouerxNfmrlm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 19:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FDPmCmQL1uphCfnu8OOIKRLuOe0QadouerxNfmrlm8="
         }
       ]
     },
